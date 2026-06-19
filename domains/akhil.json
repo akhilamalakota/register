@@ -3,6 +3,9 @@
     "username": "akhilamalakota"
   },
   "records": {
-    "CNAME": "akhildev-portfolio.vercel.app"
+    "CNAME": "akhildev-portfolio.vercel.app",
+    "TXT": {
+      "_vercel": "vc-domain-verify=akhil.is-a.dev,27a2053b130580fd5b65"
+    }
   }
 }
